@@ -43,7 +43,7 @@
 
 ### Запуск
 ```bash
-python season_convert.py
+python task2.py
 ```
 
 Photo1.jpg и Photo2.jpg должны лежать в текущей директории. Результат - Summer.jpg и Autumn.jpg.
