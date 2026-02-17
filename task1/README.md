@@ -32,5 +32,12 @@
 Используются только модули стандартной библиотеки Python: `struct`, `heapq`, `tempfile`, `multiprocessing`, `gc`.
 
 ### Запуск
-Базовое решение: `python task1_basic.py input.txt output.txt` 
-Оптимизированное решение: `python task1.py input.txt output.txt`
+Базовое решение:
+```bash
+python task1_basic.py input.txt output.txt
+```
+
+Оптимизированное решение:
+```bash
+python task1.py input.txt output.txt
+```
